@@ -1,1 +1,1 @@
-# https-github.com-mahdieslaminet-Multimedia_Communications_Course
+روش‌های پیشرفته کدگذاری ویدئویی: تحلیل فشرده‌سازی مبتنی بر پیش‌بینی حرکت در استانداردهای H.26x
